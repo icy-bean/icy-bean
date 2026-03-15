@@ -24,11 +24,8 @@
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=&group_code=1090447233">
     <img src="https://img.shields.io/badge/QQ%E7%BE%A4-1090447233-07c160?style=flat-square&logo=tencent-qq" alt="QQ Group"/>
   </a>
-</p>
-
-<!-- 访问量统计 -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=icy-bean&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <!-- 访问量统计 -->
+   <img src="https://komarev.com/ghpvc/?username=icy-bean&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <!-- 贪吃蛇动画 -->
