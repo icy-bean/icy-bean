@@ -89,21 +89,29 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,maven,git,github,docker,linux,idea,vscode" />
 </p>
-
 <br clear="both">
 
----
-
-<!-- 分割线 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%"/>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERwv/giphy.gif" width="35"> GitHub 统计
+
+<!-- 统计卡片 -->
+<p align="center">
+  <em>📊 我的 GitHub 数据统计</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/icy-bean">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icy-bean&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icy-bean&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
+</p>
+
+<p align="center">
+  <em>🏆 我的常用编程语言分布</em>
+</p>
+
+<!-- 连续提交统计 -->
+<p align="center">
+  <em>🔥 连续提交记录，保持热爱！</em>
 </p>
 
 <p align="center">
@@ -114,6 +122,10 @@
 
 <!-- 引用卡片 -->
 <p align="center">
+  <em>💡 每日开发者名言</em>
+</p>
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
@@ -121,6 +133,10 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%"/>
 
 <!-- 3D贡献图 -->
+<p align="center">
+  <em>🌌 我的 3D 贡献图谱</em>
+</p>
+
 <p align="center">
   <a href="https://github.com/icy-bean">
     <img src="https://cdn.jsdelivr.net/gh/icy-bean/icy-bean/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
