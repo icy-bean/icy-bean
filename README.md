@@ -164,9 +164,7 @@
 
 ## 📝 一点点想法
 
-<table>
-<tr>
-<td>
+<img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" width="300"/>
 
 "Stay hungry, stay foolish." —— Steve Jobs
 
@@ -177,14 +175,7 @@
 - 探索系统设计与架构
 - 提升代码质量与工程能力
 
-</td>
-</tr>
-</table>
-
-<!-- 底部GIF -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" width="500"/>
-</p>
+<br clear="both">
 
 ---
 
