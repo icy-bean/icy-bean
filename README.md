@@ -160,6 +160,27 @@
   </a>
 </p>
 
+---
+
+## 📝 一点点想法
+
+<table>
+<tr>
+<td>
+
+"Stay hungry, stay foolish." —— Steve Jobs
+
+保持学习的热情，坚持做有意义的事情。代码不仅仅是工具，更是表达思想的方式。
+
+**正在努力的方向：**
+- 深入学习 Java 后端开发
+- 探索系统设计与架构
+- 提升代码质量与工程能力
+
+</td>
+</tr>
+</table>
+
 <!-- 底部GIF -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" width="500"/>
