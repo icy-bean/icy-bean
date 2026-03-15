@@ -48,6 +48,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3bafbf5tdwy&rid=giphy.gif" width="25"> 技术栈
 
+<img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="280"/>
+
 ### 编程语言
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -88,9 +90,9 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,maven,git,github,docker,linux,idea,vscode" />
 </p>
 
----
+<br clear="both">
 
-## <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="500"/>
+---
 
 <!-- 分割线 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%"/>
