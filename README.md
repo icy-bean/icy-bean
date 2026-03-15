@@ -95,23 +95,29 @@
 
 <!-- 统计卡片 -->
 <p align="center">
-  <em>📊 我的 GitHub 数据统计</em>
+  📊 我的 GitHub 数据统计
 </p>
 
 <p align="center">
   <a href="https://github.com/icy-bean">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icy-bean&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+
+<!-- 编程语言分布 -->
+<p align="center">
+  🏆 我的常用编程语言分布
+</p>
+
+<p align="center">
+  <a href="https://github.com/icy-bean">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icy-bean&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
-<p align="center">
-  <em>🏆 我的常用编程语言分布</em>
-</p>
-
 <!-- 连续提交统计 -->
 <p align="center">
-  <em>🔥 连续提交记录，保持热爱！</em>
+  🔥 连续提交记录，保持热爱！
 </p>
 
 <p align="center">
@@ -122,7 +128,7 @@
 
 <!-- 引用卡片 -->
 <p align="center">
-  <em>💡 每日开发者名言</em>
+  💡 每日开发者名言
 </p>
 
 <p align="center">
