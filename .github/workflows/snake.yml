@@ -32,7 +32,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color-snake=#00ff00&color-dots=#000000
 
       # 推送生成的文件到 output 分支
       - name: Push github-contribution-grid-snake.svg to the output branch
