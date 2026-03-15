@@ -20,6 +20,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       # 生成贪吃蛇动画 SVG
