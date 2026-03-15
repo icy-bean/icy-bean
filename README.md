@@ -1,10 +1,14 @@
 <!-- 炫酷GitHub个人主页 - icy-bean -->
 
 <!-- 打字机效果标题 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C%20I'm%20Icy-Bean!;Welcome%20to%20my%20GitHub%20Profile!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5!&center=true&size=27" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C%20I'm%20Icy-Bean!;Welcome%20to%20my%20GitHub%20Profile!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5!&center=true&size=27" alt="Typing SVG" />
+</p>
 
 <!-- 编程动画 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="400" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="400" />
+</p>
 
 <!-- 社交徽章 -->
 <p>
