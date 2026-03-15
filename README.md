@@ -134,9 +134,20 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
-
 <!-- 分割线 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%"/>
+
+<br clear="both">
+
+<!-- 贪吃蛇贡献图 -->
+<p align="center">
+  🐍 贪吃蛇贡献图
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/icy-bean/icy-bean/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/icy-bean/icy-bean/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/icy-bean/icy-bean/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <!-- 3D贡献图 -->
 <p align="center">
