@@ -28,24 +28,19 @@
    <img src="https://komarev.com/ghpvc/?username=icy-bean&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- 贪吃蛇动画 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/icy-bean/icy-bean/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/icy-bean/icy-bean/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/icy-bean/icy-bean/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 关于我
 
 <img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="300"/>
 
-你好！我是一名学生，热爱编程和技术。
+你好！我是一名软件工程专业的大学生，热爱编程、技术和生活。
 
-- 正在学习 **Java** 和 **Web前端开发**
-- 热爱探索新技术，喜欢动手实践
+- 正在学习 **Java** 和 **Web前端开发** 相关技术栈
+- 热爱探索新技术，喜欢动手实践(瞎倒腾)
 - 相信代码可以改变世界
+- 欢迎关注、订阅我的个人博客
+- 博客地址：https://icybean.cn
 
 <br clear="both">
 
